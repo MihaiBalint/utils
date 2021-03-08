@@ -1,0 +1,3 @@
+[virtualenvs]                   # https://github.com/python-poetry/poetry/blob/1.0.3/docs/docs/configuration.md#available-settings
+in-project = true
+create = true
